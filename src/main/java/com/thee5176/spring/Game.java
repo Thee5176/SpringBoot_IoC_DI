@@ -2,7 +2,7 @@ package com.thee5176.spring;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
-class Game {
+public class Game {
  	@Autowired											//DIに任せる
 	Score score;
 	
